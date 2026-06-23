@@ -1,0 +1,12 @@
+"""
+backend/requirements.txt
+
+Python dependencies for the Flask backend API.
+"""
+
+Flask==2.3.3
+Flask-CORS==4.0.0
+Pydantic==2.0.0
+PyYAML==6.0
+python-dotenv==1.0.0
+Werkzeug==2.3.7
